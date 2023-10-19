@@ -1,1 +1,11 @@
-feature: 
+feature: Descuento en suscripción
+
+Descripcion:
+
+Como gerente en marketing, quiero aplicar descuentos en los primeros planes de 
+la suscripción y el plan anual para hacer más llamativa ante los clientes
+
+Escenario:
+Dado que un usuario se ha inscrito en la app
+Cuando quiera suscribirse
+Entonces la app le brindará descuentos en los planes mencionados
