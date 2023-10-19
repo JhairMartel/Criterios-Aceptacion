@@ -1,0 +1,10 @@
+Ferature: Publicidad de la app
+
+Descripcion : 
+Como gerente de marketing, quiero poder promocionar la app en las 
+redes sociales y otras paginas para así poder atraer a más usuarios
+
+Escenario: 
+Dado que un usuario entra a una red social o página de internet
+Cuando empiece a navegar
+Entonces observará el anuncio y le interesará utilizar la app
