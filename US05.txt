@@ -1,0 +1,11 @@
+Ferature: Traducción precisa
+
+Descripcion : 
+Como estudiante quiero saber si las 
+traducciones que me brinda la app están 
+correctas gramaticalmente y estructuralmente
+
+Escenario: 
+Dado que un usuario se registra en la app
+Cuando verifica y comprueba que las traducciones son precisas y correctas
+Entonces seguirá haciendo uso de la app
