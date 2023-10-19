@@ -1,0 +1,11 @@
+Ferature: Manejo sencillo
+
+Descripcion : 
+Como estudiante quiero que la app sea de fácil 
+uso para que no se me complique al momento de 
+utilizarla cuando la necesite para buscar información
+
+Escenario: 
+Dado que un usuario se ha registrado en la app
+Cuando empiece a interactuar con las funcionalidades
+Entonces la app se la hará sencilla de manejar
