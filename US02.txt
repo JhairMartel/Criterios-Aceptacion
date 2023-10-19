@@ -1,0 +1,11 @@
+ferature: Prueba gratuita
+
+Descripcion:
+Como gerente de marketing quiero aplicar dos semanas de prueba gratuita 
+antes de comenzar el pago de la suscripción para que los clientes se 
+sientan atraídos por la calidad de nuestro producto
+
+Escenario:
+Dado que un usuario se ha registrado en la app
+Cuando empiece las 2 semanas de prueba gratuita
+Entonces deseara seguir con el servicio premium
