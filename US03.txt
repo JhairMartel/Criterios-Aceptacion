@@ -1,0 +1,11 @@
+Ferature: Uso sin conexión
+
+Descripcion:
+Como viajero quiero que uno de los beneficios de 
+pagar la suscripción sea el poder usar la aplicación 
+sin necesidad de una conexión a internet
+
+Escenario:
+Dado que un usuario tenga el servicio premium
+Cuando use la app en cualquier lugar
+Entonces podrá utilizarla sin necesidad de internet
